@@ -1,6 +1,6 @@
 # big-data-challenge
 
-[!toy_review](Level-1/toy_total_help_ratio.PNG)
+![toy_review](Level-1/toy_total_help_ratio.PNG)
 
 ## Reviewing the Reviewers
 This assignment analyzes two review data-sets from Amazon's [Vine Program](https://www.amazon.com/gp/vine/help?ie=UTF8). 
