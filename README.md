@@ -64,3 +64,17 @@ Based on the video game and toy review data sets, the vine program only creates 
 
 ![game_disto](/Level-1/images/game_total_disto.png)
 
+![toy_disto](/Level-1/images/toy_total_disto.png)
+
+![game_avg](/Level-1/imags/game_total_help_avg.png)
+
+![toy_avg](/Level-1/imags/toy_total_help_avg.png)
+
+![game_ratio](/Level-1/imags/game_total_help_ratio.png)
+
+![toy_ratio](/Level-1/imags/toy_total_help_ratio.png)
+
+
+
+
+
