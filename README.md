@@ -60,7 +60,7 @@ Vine reviewers did only slightly better than their non-vine review counterparts.
 
 Based on the video game and toy review data sets, the vine program only creates modestly better reviews. For the video game data set, vine under-perform on average number of helpful votes. Vine reviews for both video games and toys also award 4 or 5 stars ~75% of the time. This suggests vine reviewers are being sent above average products or that they are grading on a favorable curve. 
 
-## Charts
+## Charts and Tables
 
 ![game_disto](/Level-1/images/game_total_disto.png)
 
@@ -74,7 +74,14 @@ Based on the video game and toy review data sets, the vine program only creates 
 
 ![toy_ratio](/Level-1/images/toy_total_help_ratio.png)
 
+### Low Quality Reviewers
+Percent of frequent reviewers (more than 10 reviews) who have less than 50% helpful votes 
 
-
+|Program|Product|% Low Quality| 
+|:---:|:---:|:---"|
+Vine| Video Games| 18.2% |
+Non-Vine| Video Games | 28.6% |
+Vine | Toys | 4.1% |
+Non-Vine | Toys | 7.2% |
 
 
