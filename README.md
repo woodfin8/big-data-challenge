@@ -78,10 +78,10 @@ Based on the video game and toy review data sets, the vine program only creates 
 Percent of frequent reviewers (more than 10 reviews) who have less than 50% helpful votes 
 
 |Program|Product|% Low Quality| 
-|:---:|:---:|:---"|
-Vine| Video Games| 18.2% |
-Non-Vine| Video Games | 28.6% |
-Vine | Toys | 4.1% |
-Non-Vine | Toys | 7.2% |
+|:---:|:---:|:---:|
+|Vine| Video Games| 18.2% |
+|Non-Vine| Video Games | 28.6% |
+|Vine | Toys | 4.1% |
+|Non-Vine | Toys | 7.2% |
 
 
