@@ -51,7 +51,7 @@ For non-vine reviews ,5 star ratings were by far the most common; 47.7% for vide
 
 ### Average Number of Helpful Votes
 
-In video games, non-vine reviews received more helpful votes on average than vine reviews for star ratings 1-4. Vine out-perfored modestly in 5 star reviews which received an average of 4.4 vs non-vine's 4.0.
+In video games, non-vine reviews received more helpful votes on average than vine reviews for star ratings 1-4. Vine out-performed modestly in 5 star reviews which received an average of 4.4 vs non-vine's 4.0.
 
 Vine toy reviews did better earning more helpful votes on average than non-vine's across all star ratings. Margin ranged from 1.2 votes better for 5 star reviews to 2.6 votes better for 1 star reviews.
 
@@ -61,9 +61,9 @@ For another measure of review quality, I looked at the ratio of helpful votes to
 
 ### Reviewer Quality
 
-How good are the top reviewers? I filtered for vine and non-vine customers who wrote at least 10 reviews and looked for low-quality reviewers, i.e. reviwers whose helpful vote to total vote ratio was below 50%.
+How good are the top reviewers? I filtered for vine and non-vine customers who wrote at least 10 reviews and looked for low-quality reviewers, i.e. reviewers whose helpful vote to total vote ratio was below 50%.
 
-Vine reviewers did only slightly better than their non-vine review counterparts. For video games. 18.1% of vine reviewers were low-quality vs 28.6% of non-vine reviewers. For toys, 4.1% of vine reviewers were low quality vs 7.2% for non-vine
+Vine reviewers did slightly better than their non-vine review counterparts. For video games. 18.1% of vine reviewers were low-quality vs 28.6% of non-vine reviewers. For toys, 4.1% of vine reviewers were low quality vs 7.2% for non-vine
 
 ## Conclusions
 
